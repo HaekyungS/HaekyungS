@@ -29,10 +29,20 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 
-<!-- git, github,  -->
+<!-- git, github  -->
 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haekyungs95@gmail.com&show_icons=true&theme=radical)
+
+### 저를 좀 더 알고 싶으시다면
+
+<a href="https://www.instagram.com/dailyy_hae/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=Dailyy_hae&logoColor=E4405F"/>
+</a> <a href="https://www.notion.so/84bc98cd8aab40c4b53304326b8515de?pvs=4" target="_blank">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Blog&logoColor=white"/>
+</a> <a href="https://www.instagram.com/dailyy_hae/" target="_blank">
+<img src="https://img.shields.io/badge/gmail-#EA4335?style=for-the-badge&logo=haekyungs95@gmail.com&logoColor=white"/>
+</a>
 
 </div>
