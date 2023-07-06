@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Dongle&family=Gaegu&display=swap" rel="stylesheet">
-<div align:'center' font-family:"'Dongle',sans-serif">
+<div style="text-align: center; font-family: 'Dongle', sans-serif;">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20처방전%20성해경나왔습니다💊%20&fontSize=45&animation=fadeIn&fontAlignY=38&desc=💊비타민%20개발자💊&descAlignY=51&descAlign=62)
 
