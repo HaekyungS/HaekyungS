@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=💊비타민같은%개발자💊&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%저는%내복약%성해경%입니다&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=💊비타민같은%20개발자💊&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20저는%20내복약%20성해경%20입니다&descAlignY=51&descAlign=62)
 
 <br />
 <div>
