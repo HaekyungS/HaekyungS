@@ -1,4 +1,4 @@
-<div>
+<div style="alignItems:center">
 ## 💊비타민 같은 개발자💊
 
 <br />
