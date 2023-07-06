@@ -33,9 +33,9 @@
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaekyungS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaekyungS&show_icons=true&theme=blueberry)
 
-### 저를 좀 더 알고 싶으시다면 🙌
+## 저를 좀 더 알고 싶으시다면 🙌
 
 <!-- instagram, notion, gmail -->
 
