@@ -4,6 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=처방전%20성해경나왔습니다👩‍⚕️%20&fontSize=45&animation=fadeIn&fontAlignY=38&desc=💊비타민%20개발자💊&descAlignY=51&descAlign=62)
 
+<img src="./해경_파트.gif">
+
 <br />
 <div>
 잠깐만 같이 있어도 일에 지친 삶을 재밌게 해드립니다 😊
