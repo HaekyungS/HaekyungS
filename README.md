@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=처방전%20성해경나왔습니다💊%20&fontSize=45&animation=fadeIn&fontAlignY=38&desc=💊비타민%20개발자💊&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=처방전%20성해경나왔습니다👩‍⚕️%20&fontSize=45&animation=fadeIn&fontAlignY=38&desc=💊비타민%20개발자💊&descAlignY=51&descAlign=62)
 
 <br />
 <div>
