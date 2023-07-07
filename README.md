@@ -29,9 +29,9 @@
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
-### 이번 주, 저의 활동 👩‍💻
+### 저의 github 활동 👩‍💻
 
-![Haekyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaekyungS&show_icons=true&theme=blueberry)
+![Haekyung's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaekyungS&theme=transparent) ![Haekyung's GitHub Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaekyungS&theme=transparent)
 
 ## 저를 좀 더 알고 싶으시다면 🙌
 
