@@ -38,7 +38,7 @@
 <!-- instagram, notion, gmail -->
 <a href="https://www.instagram.com/dailyy_hae/" target="_blank">
 <img src="https://img.shields.io/badge/dailyy_hae-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a> <a href="https://www.notion.so/84bc98cd8aab40c4b53304326b8515de?pvs=4" target="_blank">
+</a> <a href="https://foul-rice-892.notion.site/Project-69425c2d126f4af28d8763c1b5a5d085?pvs=4" target="_blank">
 <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a> <img src="https://img.shields.io/badge/haekyungs95@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
